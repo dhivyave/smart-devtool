@@ -399,9 +399,8 @@ I want to integrate the GitHub REST API into a Java application to manage reposi
 
 **Dhivya V**
 
-B.E. Computer Science and Engineering
+B.TECH INFORMATION TECHNOLOGY
 
-AI & Full Stack Developer
 
 ---
 
