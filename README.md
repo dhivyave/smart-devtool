@@ -121,7 +121,9 @@ It extracts all the essential information from API documentation and instantly g
 
 ## Analysis Page
 
-![Analysis](screenshots/analysis-page.png)
+![Analysis 1](screenshots/analysis-page1.png)
+
+![Analysis 2](screenshots/analysis-page2.png)
 
 ---
 
@@ -135,13 +137,14 @@ It extracts all the essential information from API documentation and instantly g
 
 ![Workflow](screenshots/flow.png)
 
----
 
-## Workflow (Detailed)
 
 ![Workflow 2](screenshots/flow2.png)
 
 ---
+## Use Cases
+
+![Usecases](screenshots/usecases.png)
 
 ## AI Chatbot
 
@@ -174,7 +177,7 @@ It extracts all the essential information from API documentation and instantly g
 The following diagram illustrates the overall architecture and workflow of the Smart DevTool platform.
 
 <p align="center">
-  <img src="screenshots/architecture.png" alt="Smart DevTool Architecture" width="1000">
+  <img src="screenshots/architeture.png" alt="Smart DevTool Architecture" width="1000">
 </p>
 
 ### Architecture Overview
